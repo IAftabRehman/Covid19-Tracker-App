@@ -1,4 +1,4 @@
-
+/* APIs URL */
 
 class urls{
   static const String baseUrl = 'https://disease.sh/v3/covid-19/';
