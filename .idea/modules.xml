@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Covid19-Tracker-App.iml" filepath="$PROJECT_DIR$/.idea/Covid19-Tracker-App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tracker_app.iml" filepath="$PROJECT_DIR$/tracker_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/tracker_app_android.iml" filepath="$PROJECT_DIR$/android/tracker_app_android.iml" />
     </modules>
   </component>
 </project>
